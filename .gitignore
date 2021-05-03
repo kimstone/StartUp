@@ -13,5 +13,5 @@
 # Environments
 venv/
 
-# NON-CODE ASSETS
-# assets/
+# Developer Assets
+webdev/
